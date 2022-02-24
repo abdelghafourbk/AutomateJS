@@ -1,0 +1,5 @@
+
+ - I need to get the data from excel file and parse it to json or array.
+ - Use puppeteer to get into ent delib and the Matricule input.
+ - for each result get the Fullname and Mark.
+ - Push results into Results file.     
